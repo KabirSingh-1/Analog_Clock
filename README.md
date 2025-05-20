@@ -4,12 +4,7 @@ A beautiful analog clock with a digital time display built using **HTML**, **CSS
 
 ---
 
-## 📸 Preview
 
-![Clock Preview](insert-preview-image-url-here)  
-*(Replace this with a screenshot or GIF of your clock)*
-
----
 
 ## 🚀 Features
 
